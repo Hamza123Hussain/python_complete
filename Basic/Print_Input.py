@@ -1,3 +1,5 @@
 print('HELLO WORLD')
+# Input A Name In Python
 name=input('ENTER A NAME ')
-print(f"The name is {name}",sep=" '''' ")
+# Showcasing the value of the variable in the print function
+print(f"The name is {name}")
