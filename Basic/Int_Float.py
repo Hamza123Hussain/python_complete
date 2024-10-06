@@ -10,3 +10,6 @@ print(f"THE SUM OF BOTH : {Number+Number2}")
 
 #Rounding off a number
 print(f"ROUND OFF NUMBER : {round((Number))}")
+
+#specifying a seperator that comes after or before the value
+print(f"THE SUM OF BOTH : {Number+Number2:.4f}") #here we are specifying that we nedd 4 decimal place in the answer
