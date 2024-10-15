@@ -9,7 +9,11 @@ def main():
 def New_Student():
      student=input('Enter Name : ')
      House=input('Enter House : ')
-     return (student,House) # tuples are immutable meaning the value that is once set in them can not be chnaged 
+     return[student,House] # returning as a list . list are mutable . there values can be chnaged at anytime
+#     return (student,House) # tuples are immutable meaning the value that is once set in them can not be chnaged 
+     
+ 
+ 
  
  
  
